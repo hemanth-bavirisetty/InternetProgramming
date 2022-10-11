@@ -1,0 +1,1 @@
+Design a Registration page using html consist of atleast 4-textboxes,test area,checkboxes,radiobuttons,menu script,submit and reset elements.
