@@ -1,0 +1,4 @@
+Design a static html application with 3 frames as below.
+1st frame at the top containing a header,2nd frame a navigation frame that contains hyperlinks to open 3 other pages
+3rd frame that displays a page corresponding to the hyperninks in the 2nd frame.
+the example output shown in output.png .
